@@ -1,5 +1,5 @@
 
-<--![visitors](https://gpvc.arturio.dev/johnhoangsoftware?v=3)-->
+
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Hùng
 <!--![visitors](https://gpvc.arturio.dev/johnhoangsoftware?v=3)-->
 <!--### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is H-->

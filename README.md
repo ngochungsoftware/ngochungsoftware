@@ -1,4 +1,8 @@
-hi,my name is 
+
+<--![visitors](https://gpvc.arturio.dev/johnhoangsoftware?v=3)-->
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Hùng
+<!--![visitors](https://gpvc.arturio.dev/johnhoangsoftware?v=3)-->
+<!--### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is H-->
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079933784273) 
 

@@ -1,8 +1,15 @@
+### `$ whoami`
 
+### Hi there, I'm Lê Ngọc Hùng ✔️
 
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is Hùng
-<!--![visitors](https://gpvc.arturio.dev/johnhoangsoftware?v=3)-->
-<!--### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, my name is H-->
+> [![View count](https://visitcount.itsvg.in/api?id=lucthienphong1120&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=lucthienphong1120)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></p>
+
+- 🇻🇳 : I'm from VietNam
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079933784273) 
 

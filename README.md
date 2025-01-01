@@ -44,6 +44,3 @@
 
 
 
-<p căn chỉnh="trung tâm">
-    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-</p>
